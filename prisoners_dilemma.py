@@ -5,7 +5,7 @@ from __future__ import print_function
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
 #
-# Activity 1.3.9 Tools for Collaboration
+# Activity 1.3.9 Tools for collaboration
 # Project 1.3.10 Collaborating on a Project
 # 
 # To run a tournament, execute this file. 
